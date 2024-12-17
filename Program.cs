@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace FactoryMethod
-{
+{    
+    /// Comment first: abracadabra
     class Program
     {
         static void Main(string[] args)
